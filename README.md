@@ -63,15 +63,15 @@ Javascript, HTML, CSS, Angular, Php, Java, Figma, Bootstarp, Wordpress, Linux
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpimple&show_icons=true&locale=en&layout=compact" alt="yashpimple" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-2545&show_icons=true&locale=en&layout=compact" alt="mayank-2545" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpimple&show_icons=true&locale=en" alt="yashpimple" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-2545&show_icons=true&locale=en" alt="mayank-2545" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpimple&" alt="yashpimple" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpimple&" alt="mayank-2545" /></p>
 
 
 
-## Tech Stack
+#Tech Stack
 
 LAMP, MEARN
 

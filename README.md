@@ -67,13 +67,8 @@ Javascript, HTML, CSS, Angular, Php, Java, Figma, Bootstarp, Wordpress, Linux
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-2545&show_icons=true&locale=en" alt="mayank-2545" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpimple&" alt="mayank-2545" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-2545&" alt="mayank-2545" /></p>
 
-
-
-#Tech Stack
-
-LAMP, MEARN
 
 
 

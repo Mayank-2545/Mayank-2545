@@ -6,10 +6,10 @@
 [![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/mayank.patil01/)
 
 ## 🚀 About Me
-I'm a junior pursuing my Bachelor's in CS from India 🎓 I am learning Aws & also passionate about Open Source 💻 
+I'm a junior pursuing my Bachelor's in CS from India 🎓 I am learning Aws Amplify & also passionate about Open Source 💻 
 
 ## Productivity Section
-👩‍💻 I'm currently working on AWS & Angular.
+👩‍💻 I'm currently working on AWS Amlify & Angular.
 
 🧠 I'm currently learning Routings in angular.
 

@@ -1,12 +1,9 @@
-# Hi, I'm Mayank Patil! 👋
+<h1>👋 I'm Mayank Patil! </h1>
 
-## 🔗 Links
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:///) -->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank~patil/)
-[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/mayank.patil01/)
+I'm a CS student from India 🎓 currently learning Aws Amplify & also passionate about Open Source 💻 
 
-## 🚀 About Me
-I'm a junior pursuing my Bachelor's in CS from India 🎓 I am learning Aws Amplify & also passionate about Open Source 💻 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+
 
 ## Productivity Section
 👩‍💻 I'm currently working on AWS Amlify & Angular.
@@ -69,21 +66,19 @@ Javascript, HTML, CSS, Angular, Php, Java, Figma, Bootstarp, Wordpress, Linux
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-2545&" alt="mayank-2545" /></p> -->
  
-  <h2>📊 Github Stats and Activity</h2>
+ ## 🔗 Links
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:///) -->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank~patil/)
+[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayank.patil01/)
+ 
+<!--   <h2>📊 Github Stats and Activity</h2> -->
 
-  <h3>🔥 Streak Stats</h3>
+## 🔥 GitHub Profile Stats
 
 
-  <p>
-    <a href="https://github.com/Mayank-2545/github-readme-streak-stats">
+<a href="https://github.com/Mayank-2545/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mayank-2545's streak" src="https://streak-stats.demolab.com/?user=Mayank-2545&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mayank-2545's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-2545&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" /></a>
+</a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mayank-2545's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-2545&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>

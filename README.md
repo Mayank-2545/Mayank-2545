@@ -66,7 +66,7 @@ Javascript, HTML, CSS, Angular, Php, Java, Figma, Bootstarp, Wordpress, Linux
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-2545&" alt="mayank-2545" /></p> -->
  
- ## 🔗 Links
+ ## 🔗 Connect
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:///) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank~patil/)
 [![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayank.patil01/)

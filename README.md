@@ -1,6 +1,6 @@
-<h1>👋 I'm Mayank Patil! </h1>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mayank Patil! 
 
-I'm a CS student from India 🎓 currently learning Aws Amplify & also passionate about Open Source 💻 
+<h5>I'm a CS student from India 🎓 currently learning Aws Amplify & also passionate about Open Source 💻 </h5>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 

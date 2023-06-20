@@ -63,11 +63,11 @@ Javascript, HTML, CSS, Angular, Php, Java, Figma, Bootstarp, Wordpress, Linux
 </p>
 </details>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-2545&show_icons=true&locale=en&layout=compact" alt="mayank-2545" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-2545&show_icons=true&locale=en&layout=compact" alt="mayank-2545" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-2545&show_icons=true&locale=en" alt="mayank-2545" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-2545&" alt="mayank-2545" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-2545&" alt="mayank-2545" /></p> 
 
 <details open>
 <summary><h2> 🔗 Connect </h2></summary>
@@ -96,7 +96,7 @@ Javascript, HTML, CSS, Angular, Php, Java, Figma, Bootstarp, Wordpress, Linux
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mayank-2545's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Mayank-2545&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
-<!--   <h3>⚡ Recent GitHub Activity</h3>
+   <h3>⚡ Recent GitHub Activity</h3>
 
 
 
@@ -104,7 +104,7 @@ Javascript, HTML, CSS, Angular, Php, Java, Figma, Bootstarp, Wordpress, Linux
 2. 💪 Opened PR [#391](https://github.com/Mayank-2545/github-readme-streak-stats/pull/391) in [Mayank-2545/github-readme-streak-stats](https://github.com/Mayank-2545/github-readme-streak-stats)
 3. 🎉 Merged PR [#18](https://github.com/Mayank-2545/hogwarts-ghosts/pull/18) in [Mayank-2545/hogwarts-ghosts](https://github.com/Mayank-2545/hogwarts-ghosts)
 4. 💪 Opened PR [#18](https://github.com/Mayank-2545/hogwarts-ghosts/pull/18) in [Mayank-2545/hogwarts-ghosts](https://github.com/Mayank-2545/hogwarts-ghosts)
-5. 🗣 Commented on [#389](https://github.com/Mayank-2545/github-readme-streak-stats/issues/389) in [Mayank-2545/github-readme-streak-stats](https://github.com/Mayank-2545/github-readme-streak-stats) -->
+5. 🗣 Commented on [#389](https://github.com/Mayank-2545/github-readme-streak-stats/issues/389) in [Mayank-2545/github-readme-streak-stats](https://github.com/Mayank-2545/github-readme-streak-stats) 
 
 
 

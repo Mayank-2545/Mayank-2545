@@ -7,6 +7,7 @@ I'm a CS student from India 🎓 currently learning Aws Amplify & also passionat
 <details open>
    <summary><h2>Productivity Section</h2></summary>
    👩‍💻 I'm currently working on AWS Amlify & Angular.
+   
 
    🧠 I'm currently learning Routings in angular.
 

@@ -1,6 +1,6 @@
 <h1>👋 I'm Mayank Patil! </h1>
 
-I'm a CS student from India 🎓 currently learning Aws Amplify & also passionate about Open Source 💻 
+I'm a CS student from India 🎓 currently learning Aws & also passionate about Open Source 💻 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 
@@ -13,7 +13,7 @@ I'm a CS student from India 🎓 currently learning Aws Amplify & also passionat
 
    👯‍♀️ I'm looking to collaborate on Web Development.
 
-   📫 How to reach me madewithmayank@gmail.com
+   📫 How to reach me mayankpatil.ely@gmail.com
 
    ⚡️ Fun fact : Computer Programming was instrumental in helping end World War II.
 </details>
